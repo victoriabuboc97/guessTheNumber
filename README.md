@@ -7,3 +7,5 @@ Rules:
   3. You should press the button Greater or Lower depending on the number guessed by the system. Remeber: Do not lie! The system will find out and it will alert you to press the right button.
 
 The system guessing is based on intervals and random numbers. At the end of the game, it will show you the number of rounds and the guessed number.
+
+![Optional Text](./mock.png)
